@@ -8,4 +8,4 @@ all tutorial codes are implemented by gpu environment
 [DDPG Pendulum](https://github.com/JongKook-Heo/RL-Tutorial/blob/master/Task%20Pendulum%20DDPG.ipynb)
 ## SAC
 ### tutorial code
-[SAC Acrobot](https://github.com/JongKook-Heo/RL-Tutorial/blob/master/Task%20Acrobot%20SAC.ipynb)
+[SAC Pendulum](https://github.com/JongKook-Heo/RL-Tutorial/blob/master/Task%20Pendulum%20SAC.ipynb)
